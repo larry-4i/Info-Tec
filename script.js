@@ -1,3 +1,1 @@
-function showMessage() {
-    alert("Welcome to Info-Tec! Start learning and earning online.");
-}
+<a href="home.html">Get Started</a>
