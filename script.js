@@ -1,1 +1,3 @@
-<a href="home.html">Get Started</a>
+<button onclick="window.location.href='home.html'">
+  Get Started
+</button>
